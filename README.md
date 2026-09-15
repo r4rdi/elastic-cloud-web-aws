@@ -1,5 +1,4 @@
 <div align="center">
-
 # 🚀 AWS — VPC & EC2 Docker
 
 Dokumentasi komprehensif mengenai konfigurasi infrastruktur AWS (VPC, Subnets, Route Tables, Internet Gateway, NAT Gateway, Elastic IP, Security Groups), peluncuran EC2 Instance, koneksi SSH CLI, deployment Container Docker dari GitHub Container Registry (GHCR), serta konfigurasi Nginx Reverse Proxy dengan SSL/TLS (HTTPS).
